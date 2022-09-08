@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @caetano-amorim
+- 👀 I’m interested in sailing, coding, games, books, sports.
+- 🌱 I’m currently learning deep learning, HTML, CSS, machine learning, Power BI.
+- 💞️ I’m looking to collaborate on all I can.
